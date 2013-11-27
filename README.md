@@ -1,8 +1,8 @@
-y #Cómovamos?
-=========
+# y #Cómovamos?
 
-Descripción
--------
+
+## Descripción
+
 
 Este proyecto está dirigido a que la ciudadanía pueda conocer y medir de mejor manera como la clase política está haciendo el trabajo que le hemos confiado como sociedad.
 
@@ -23,18 +23,37 @@ Para lograr responder debemos contar con herramientas que nos permitan, entre ot
 * Validar que la información que entregan a través de los medios, se corresponda con lo que realmente ocurre (asistencia al congreso, votaciones, argumentos en sala, etc)
 * Controlar el estado actual de las acusaciones y/o problemas en que los políticos se ven envueltos. (no dejar que los medios tradicionales hagan desaparecer las noticias a su antojo)
 
+## Componentes
+Componentes o módulos a través de los cuales se tendrá acceso a la plataforma.
 
 
-Stack Tecnológico
--------
+### Website
+Primera implementación de la plataforma cuenta con un website directamente conectado al backend. En el futuro podría ser separado.
+
+### Aplicaciones móviles
+Aplicaciones nativas o no, que se conectan a la plataforma
+
+#### Android
+Aplicación Android
+
+#### iOS
+Aplicación iOS
+
+
+## Stack Tecnológico
+
 
 Por definir
 
 
 
-Licencia
--------
+##Licencia
+
 El proyecto y sus códigos fuentes quedan bajo licencia [GPL v3]
+
+
+## Colaboradores
+Estos son los secuaces que colaboran en este proyecto
 
 
 
