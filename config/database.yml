@@ -14,8 +14,8 @@ development:
   reconnect: false
   database: comovamos_development
   pool: 5
-  username: root
-  password:
+  username: comovamos
+  password: comovamos
   host: localhost
 
 # Warning: The database defined as "test" will be erased and
