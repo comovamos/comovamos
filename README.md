@@ -1,5 +1,15 @@
 # y #Cómovamos?
 
+# Nos movimos a [bitbucket] y [atlassian]
+
+
+.
+
+.
+
+.
+
+
 
 ## Descripción
 
@@ -58,3 +68,5 @@ Estos son los secuaces que colaboran en este proyecto
 
 
 [gpl v3]: http://www.gnu.org/licenses/gpl-3.0.txt
+[bitbucket]: https://bitbucket.org/comovamos/comovamos
+[atlassian]: http://comovamos.atlassian.net
